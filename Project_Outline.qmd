@@ -11,6 +11,10 @@ execute:
 editor: visual
 ---
 
+# [***Project Title:***]{.underline}
+
+Mapping spatial variation in crime using Geographically Weighted Regression
+
 # [*Project Motivation*]{.underline}
 
 Financial crimes around the world have been on the rise.
