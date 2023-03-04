@@ -2,16 +2,29 @@ project:
   type: website
 
 website:
-  title: "IS415-Project_G10"
+  title: "IS415-GAA-Project"
   navbar:
     left:
+    - text: "Project Outline"
+      href: "Project_Outline.html"
+    - text: "Rshiny Application"
+    - text: "Collaborators Profile"
+      menu: 
+      - text: "SHERRY NG SHEA LI"
+        href: https://github.com/yifei-alpaca
+      - text: "HOW XIN YEE"
+        href: https://github.com/xinyeehow
+      - text: "TEO JUN HAO"
+        href: https://github.com/junhao2309
+    right: 
       - href: index.qmd
         text: Home
-      - about.qmd
+      - icon: github
+      - href: about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 

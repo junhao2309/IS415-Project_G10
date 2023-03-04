@@ -1,11 +1,5 @@
 ---
-title: "IS415-Project_G10"
+title: "Geospatial Analytics Project"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is our project site for IS415 Geospatial Analytics and Applications (GAA).
